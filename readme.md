@@ -1,25 +1,25 @@
 # 🏥 Hospital Performance & Patient Satisfaction Dashboard
 
-A complete end-to-end project using SQL and Power BI to analyze hospital data, uncover insights related to patient care, satisfaction, costs, and operational efficiency.
+A complete end-to-end data analysis project using SQL and Power BI to uncover insights into hospital operations, patient satisfaction, condition prevalence, and treatment costs.
 
 ---
 
 ## 📊 Objective
 
-The goal of this project is to explore and analyze hospital patient data to identify:
+Analyze hospital patient data to:
 
-- Most common conditions
-- Readmission rates by age and gender
-- Procedure costs and satisfaction
-- Gender and outcome distributions
-- Average stay duration and satisfaction
+- Identify the most common medical conditions
+- Understand readmission rates across age and gender
+- Evaluate procedure costs and patient satisfaction
+- Analyze gender and outcome distributions
+- Measure average hospital stay duration
 
 ---
 
-## 🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies
 
-- **MySQL**: For data querying and transformation
-- **Power BI**: For visualization and dashboard creation
+- **SQL (MySQL)** — Data extraction & transformation
+- **Power BI** — Data visualization & dashboard creation
 
 ---
 
@@ -40,8 +40,6 @@ Hospital-Data-Analysis/
 ├── README.md
 ```
 
----
-
 ## 🧠 Key Insights
 
 - **984 patients** 🧍‍♂️ — 53% Female vs 47% Male  
@@ -54,21 +52,24 @@ Hospital-Data-Analysis/
 
 ## 📷 Dashboard Preview
 
-See full dashboard in [Hospital_Dashboard.pdf](dashboard/Hospital_Dashboard.pdf)
+📄 [Click here to view the full dashboard (PDF)](dashboard/Hospital_Dashboard.pdf)
 
---- 
-
-## 🚀 How to Use
-
-1. Import `hospital_data.csv` into your MySQL or Power BI environment
-2. Use `hospital_analysis_queries.sql` to explore insights via SQL
-3. Open the `.pbix` file in Power BI Desktop to explore the interactive dashboard
+> *(You can also open the `.pbix` file to explore interactively in Power BI Desktop.)*
 
 ---
 
-## 📌 Author
+## 🚀 How to Use This Project
 
-Ibrahim Ahmed
+1. Clone the repo or download the files manually
+2. Load `hospital_data.csv` into your SQL or Power BI environment
+3. Run queries from `hospital_analysis_queries.sql` for deeper insights
+4. Open the `.pbix` file in Power BI Desktop to explore the dashboard
 
-Data Analyst | SQL & Power BI Enthusiast
+---
+
+## 👤 Author
+
+**Ibrahim Ahmed**  
+*Data Analyst | SQL & Power BI Enthusiast* 
+https://www.linkedin.com/in/ibrahim-ahmed-572475143
 
