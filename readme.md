@@ -52,7 +52,7 @@ Hospital-Data-Analysis/
 
 ## 📷 Dashboard Preview
 
-📄 [Click here to view the full dashboard (PDF)](dashboard/Hospital_Dashboard.pdf)
+📄 [Click here to view the full dashboard (PDF)](Dashboard/Hospital_Dashborad.pdf)
 
 > *(You can also open the `.pbix` file to explore interactively in Power BI Desktop.)*
 
