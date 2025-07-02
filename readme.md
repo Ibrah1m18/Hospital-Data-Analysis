@@ -1,4 +1,4 @@
-# 🏥 Hospital Data Analysis Project
+# 🏥 Hospital Performance & Patient Satisfaction Dashboard
 
 A complete end-to-end project using SQL and Power BI to analyze hospital data, uncover insights related to patient care, satisfaction, costs, and operational efficiency.
 
@@ -35,22 +35,28 @@ Hospital-Data-Analysis/
 │   └── hospital_analysis_queries.sql   # SQL queries for data analysis
 │
 ├── dashboard/
-│   └── Hospital_Dashboard.pbix         # Power BI dashboard (to be added)
-│
+│   └── Hospital_Dashboard.pbix         # Power BI dashboard 
+│   └── Hospital_Dashboard.pdf          # Preview 
 ├── README.md
 ```
 
 ---
 
-## ✅ Key Insights
+## 🧠 Key Insights
 
-- **Top Condition**: Diabetes is the most common condition.
-- **Readmission Rate**: \~22% overall; varies significantly by age group.
-- **Highest Cost Procedure**: Heart Bypass
-- **Avg Stay Duration**: \~4.3 days
-- **Avg Satisfaction**: Highest in "Recovered" outcomes
+- **984 patients** 🧍‍♂️ — 53% Female vs 47% Male  
+- **Most common conditions** 🩺 — Fractured Leg, Heart Attack, Diabetes  
+- **Highest Avg Cost** 💸 — Cancer (~25,000)  
+- **Longest Stay** 🛌 — Cancer (~42.7 days)  
+- **Highest Satisfaction** 😊 — Allergic Reaction (5/5)
 
 ---
+
+## 📷 Dashboard Preview
+
+See full dashboard in [Hospital_Dashboard.pdf](dashboard/Hospital_Dashboard.pdf)
+
+--- 
 
 ## 🚀 How to Use
 
