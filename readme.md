@@ -60,14 +60,8 @@ Hospital-Data-Analysis/
 
 ---
 
-## 📷 Dashboard Preview
-
-*To be added soon once image or link is ready.*
-
----
-
 ## 📌 Author
 
-**Your Name**\
+Ibrahim Ahmed
 Data Analyst | SQL & Power BI Enthusiast
 
